@@ -1,0 +1,1 @@
+This repo contains the app developed during the project base learning (PBL) of 4th semester. The app is related to medical sector providing basic health condition tracking and information about nearby medical facilites.
